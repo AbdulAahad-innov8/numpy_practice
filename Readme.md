@@ -1,6 +1,6 @@
 ## NumPy Practice
 
-A hands-on learning repository focused on NumPy, Python's fundamental library for numerical computing and array manipulation.
+A learning repository focused on NumPy, Python's fundamental library for numerical computing and array manipulation.
 
 This repository documents my progress in strengthening Python fundamentals and developing the numerical computing skills required for Machine Learning and AI Engineering.
 
@@ -48,7 +48,7 @@ Original learning materials are credited to their author.
 
 ## About Me
 
-I am learning AI Engineering and strengthening my foundation in Python, NumPy, Machine Learning, and Generative AI through consistent practice and hands-on projects.
+I am learning AI Engineering and strengthening my foundation in Python, NumPy, Machine Learning and Generative AI through consistent practice and projects.
 
 GitHub: https://github.com/AbdulAahad-innov8
 
